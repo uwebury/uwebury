@@ -3,7 +3,8 @@
 My name's Uwe and I like to travel and I'm embarking on the exciting journey to learn coding 💻
 
 ## Coding
-In the future, I hope to master the following 🔧 Technologies & Tools
+In the future, I hope to master the following 🔧 Technologies & Tools:
+
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)

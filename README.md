@@ -12,6 +12,8 @@ As of now, I am actively learning to master the following technologies & tools:
 - Visual Studio Code
 - Github
 
+Those technologies and tools helped me work on my first big project: a four-week team-based development effort, serving as a journeyman’s piece and the final project of a three-months web development bootcamp. You can find the project [here](https://github.com/uwebury/trip-trove).
+
 # Vacation 🏝️ 
 When I'm not learning to code I like to travel to a nice beach like this:
 ![Playa de Mogan](https://i0.wp.com/betweenenglandandiowa.com/wp-content/uploads/2021/12/Playa-Mogan.jpg?ssl=1)

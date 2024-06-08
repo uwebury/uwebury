@@ -3,16 +3,7 @@
 My name's Uwe and I like to travel and I have embarked on the exciting journey to learn coding after having worked for over 15 years in performance marketing.
 
 # Coding👨🏽‍💻
-As of now, I am actively learning to master the following technologies & tools:
-- JavaScript
-- HTML
-- CSS
-- React
-- Next.js
-- Visual Studio Code
-- Github
-
-Those technologies and tools helped me work on my first big project: a four-week team-based development effort, serving as a journeyman’s piece and the final project of a three-months web development bootcamp. You can find the project [here](https://github.com/uwebury/trip-trove).
+Discover my portfolio here: https://fullstack-dev-portfolio.vercel.app
 
 # Vacation 🏝️ 
 When I'm not learning to code I like to travel to a nice beach like this:

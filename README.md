@@ -9,14 +9,5 @@ Aspiring full-stack developer with 15+ years in performance marketing. Transitio
 - **Problem-Solving**: Analyzing challenges and developing strategic solutions.
 - **Collaboration**: Thriving in diverse teams and meaningful projects.
 
-## Projects 📌
-- **[TripTrove](https://trip-trove-packinglist.vercel.app)**: Simplifying travel planning.
-  - **Repo**: [GitHub - TripTrove](https://github.com/uwebury/trip-trove)
-  - **Tech**: React, MongoDB, Next.js
-
-- **[Face Finder](https://face-detector-ten.vercel.app)**: Detecting faces in images.
-  - **Repo**: [GitHub - Face Finder](https://github.com/uwebury/face-detector)
-  - **Tech**: React, Node.js, API, PostgreSQL
-
 ## Travel Enthusiast 🏝️
-Recent adventures include Mykonos, Athens, Gran Canary, Amsterdam, and Tenerife.
+Recent adventures include Mykonos, Athens, Gran Canary, Amsterdam, Tenerife and Brussels.

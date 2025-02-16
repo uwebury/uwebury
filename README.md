@@ -1,7 +1,7 @@
 # Hi there, I'm Uwe 👋
 
 ## About Me
-Aspiring full-stack developer with 15+ years in performance marketing. Transitioning into tech to leverage my analytical and strategic skills for creating efficient, innovative solutions. Passionate about coding and continuous learning.
+Search Engine Advertising Manager with 15+ years in performance marketing, leveraging coding and automation to optimize workflows. Passionate about efficiency, innovation, and continuous learning. Experienced in automating performance alerts, campaign optimizations, and workflow enhancements to drive better results.
 
 ## Skills
 - **Full-Stack Development**: Building responsive web applications from front-end to back-end.
